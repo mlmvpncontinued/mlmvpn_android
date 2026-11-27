@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mlm Vpn</string>
+    <string name="app_name">MLMVpn Continued</string>
     <string name="cloud_no_account_connected">未连接账户</string>
     <string name="cloud_press_add_button">点击“添加”按钮获取配置。</string>
     <string name="cloud_add_account">添加账户</string>
