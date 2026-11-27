@@ -16,7 +16,7 @@ android {
     buildToolsVersion "35.0.0"
 
     defaultConfig {
-        applicationId "com.mlmvpn.scanner"
+        applicationId "com.mlmvpncontinued.scanner"
         minSdk 24
         targetSdk 34
         versionCode 81
