@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mlm Vpn</string>
+    <string name="app_name">MLMVpn Continued</string>
     <string name="cloud_no_account_connected">No account connected</string>
     <string name="cloud_press_add_button">Press the Add button to get configs.</string>
     <string name="cloud_add_account">Add Account</string>
